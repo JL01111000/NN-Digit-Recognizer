@@ -1,1 +1,1 @@
-# NN-Digit-Recognizer
+# nn-digit-recognizer
